@@ -1,0 +1,15 @@
+.\objects\tim.o: user\tim.c
+.\objects\tim.o: user\tim.h
+.\objects\tim.o: .\lib\stm32f0xx.h
+.\objects\tim.o: .\start\core_cm0.h
+.\objects\tim.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tim.o: .\start\core_cmInstr.h
+.\objects\tim.o: .\start\core_cmFunc.h
+.\objects\tim.o: .\lib\system_stm32f0xx.h
+.\objects\tim.o: .\lib\stm32f0xx.h
+.\objects\tim.o: .\lib\stm32f0xx_conf.h
+.\objects\tim.o: .\lib\stm32f0xx_gpio.h
+.\objects\tim.o: .\lib\stm32f0xx_rcc.h
+.\objects\tim.o: .\lib\stm32f0xx_usart.h
+.\objects\tim.o: .\lib\stm32f0xx_misc.h
+.\objects\tim.o: .\lib\stm32f0xx_tim.h
